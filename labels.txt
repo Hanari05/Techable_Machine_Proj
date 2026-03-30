@@ -1,0 +1,5 @@
+0 Face
+1 With Sth
+2 With Hand
+3 None
+4 Object
